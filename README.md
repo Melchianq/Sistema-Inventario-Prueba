@@ -201,3 +201,37 @@ npm run dev
 - TypeScript
 - Vite
 - Axios (para peticiones HTTP)
+
+# **Funcionalidad del Sistema**
+<img width="1898" height="813" alt="image" src="https://github.com/user-attachments/assets/6cbaf2f5-62c2-4423-bc79-677954ecc308" />  
+
+### **Listado dinámico de productos y transacciones con paginación.**  
+
+### **Productos**  
+<img width="1837" height="818" alt="image" src="https://github.com/user-attachments/assets/999565de-6714-40fa-8d3f-3c73627a7f17" />  
+
+### **Transacciones**  
+<img width="1862" height="822" alt="image" src="https://github.com/user-attachments/assets/7c0c3038-87d7-4746-b6e3-70f57cada343" />
+
+### **Pantalla para la creación de productos.**
+<img width="1526" height="786" alt="image" src="https://github.com/user-attachments/assets/51041714-66cf-47a5-8353-2c4aee2a3efa" />  
+
+### **Pantalla para la edición de productos.**
+<img width="1516" height="796" alt="image" src="https://github.com/user-attachments/assets/39170b5c-3970-43a8-a997-a608cb21d94a" />
+
+### **Pantalla para la creación de transacciones.**
+<img width="1208" height="666" alt="image" src="https://github.com/user-attachments/assets/93885578-6439-44f3-961f-d1de838ff50a" />
+
+### **Pantalla para la edición de transacciones.**
+<img width="1213" height="667" alt="image" src="https://github.com/user-attachments/assets/ba682be9-8e38-4cb8-bd90-6c5d23187003" />
+
+### **Pantalla de filtros dinámicos.**
+### **Productos**  
+<img width="1801" height="542" alt="image" src="https://github.com/user-attachments/assets/5d522aaa-4bca-4bb8-a254-e61d1721eee7" />  
+
+### **Transacciones**
+<img width="1832" height="555" alt="image" src="https://github.com/user-attachments/assets/833c55ef-bc54-4e2a-965f-9bbef8587447" />
+
+
+
+
